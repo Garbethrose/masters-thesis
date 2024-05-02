@@ -1,8 +1,7 @@
 ---
-title: Bob Wunsch
-layout: about                                                                                                      
+title: Wunsch
+layout: about
 permalink: /wunsch.html
-**This is bold text**
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
