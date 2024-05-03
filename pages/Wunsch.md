@@ -17,8 +17,15 @@ and instructional effects of theater and literary reading combine the ideas of t
 influence, the importance of perception and self-knowledge, and the predicament of the
 individualistic student.
 
-Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
-This enables active collaboration to prototype collections with minimal set up.
+The description of Wunsch’s creative writing course for the 1936-1937 catalog cites that
+the coursework was meant to develop in its students “A keenness of perception”; “Freshness of
+expression”; and a “capacity for intellectual and emotional enjoyment.” The course focused on
+the student’s development of the use of words, sense impressions, character analyses,
+observations from daily life alongside observations from the individual imagination. These
+perceptions would culminate in the latter part of the semester, when students would attempt
+specific literary forms (with an emphasis on playwriting). While the course outcomes included
+practice of writing in specific forms and genres, the material for student’s learning would be
+gathered by their own perceptions from the “unique experience in…everyday life.” 
 
 <button class="btn btn-lg btn-success" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">
     <svg class="bi icon-sprite" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
