@@ -10,9 +10,12 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
-## About CollectionBuilder-Sheets
+## William Robert Wunsch -- Instructor from 1933-1945
 
-This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
+Wunsch’s belief in the therapeutic
+and instructional effects of theater and literary reading combine the ideas of the effect of group
+influence, the importance of perception and self-knowledge, and the predicament of the
+individualistic student.
 
 Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
 This enables active collaboration to prototype collections with minimal set up.
