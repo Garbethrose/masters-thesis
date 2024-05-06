@@ -1,6 +1,13 @@
 ---
-title: Charles Olson
+title: Olson
 layout: about
 permalink: /olson.html
+# include CollectionBuilder info at bottom
+credits: true
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
 ---
-Charles Olson, Instructor from  
+
+{% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
+
+## Charles Olson -- Instructor from 1948-1956
