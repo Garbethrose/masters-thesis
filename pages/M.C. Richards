@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
-> ## William Robert Wunsch -- Instructor from 1933-1945
+## About CollectionBuilder-Sheets ## William Robert Wunsch -- Instructor from 1933-1945
 
 Wunsch’s belief in the therapeutic
 and instructional effects of theater and literary reading combine the ideas of the effect of group
