@@ -4,4 +4,4 @@ layout: about
 permalink: /richards.html
 ---
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
-{% include feature/card.html header="Student-led Writing." text="Richards began to emphasize the importance of student's creative autonomy. This course announcement offers a concrete example of how Richards approached this committment." objectid="demo004" width="25" centered=true %}
+{% include feature/card.html header="Student-led Writing." text="Richards began to emphasize the importance of student's creative autonomy. This course announcement offers a concrete example of how Richards approached this committment." objectid="assets/wunschfacultyportrait.jpg" width="25" centered=true %}
