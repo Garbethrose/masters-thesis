@@ -27,6 +27,8 @@ specific literary forms (with an emphasis on playwriting). While the course outc
 practice of writing in specific forms and genres, the material for student’s learning would be
 gathered by their own perceptions from the “unique experience in…everyday life.” 
 
+{% include feature/pdf.html objectid="assets/writing_dramatics_course_catalogue_1943.pdf" width="50" caption="Wunsch's 1941 writing course description emphasises skilled observation and analysis as a foundation for succcessful communication." %}
+
 <button class="btn btn-lg btn-success" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">
     <svg class="bi icon-sprite" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
         <path d="M8 4.754a3.246 3.246 0 1 0 0 6.492 3.246 3.246 0 0 0 0-6.492zM5.754 8a2.246 2.246 0 1 1 4.492 0 2.246 2.246 0 0 1-4.492 0z"/>
