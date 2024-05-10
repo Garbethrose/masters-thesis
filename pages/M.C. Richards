@@ -9,4 +9,4 @@ credits: true
 ---
 #Heading 1 **Mary Caroline Richards, Instructor from 1946-1951**
 
-{% include feature/card.html header="Student-led Writing." text="Richards began to emphasize the importance of student's creative autonomy. This course announcement offers a concrete example of how Richards approached this committment." objectid="assets/wunschfacultyportrait.jpg" width="25" centered=true %}
+{% include feature/card.html header="Student-led Writing." text="Richards began to emphasize the importance of student's creative autonomy. This course announcement offers a concrete example of how Richards approached this committment." objectid="assets/richardsgreekdrama.pdf" width="25" centered=true %}
