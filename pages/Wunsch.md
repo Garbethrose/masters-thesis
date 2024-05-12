@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="assets/ahwildernesswunsch.jpg.jpg" width= "75" %}
+{% include feature/jumbotron.html objectid="assets/ahwildernesswunsch.jpg.jpg" width= "100" %}
 
 ## William Robert Wunsch -- Instructor from 1933-1945
 
