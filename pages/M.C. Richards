@@ -7,6 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-#### Mary Caroline Richards, Instructor from 1946-1951
+
+## Mary Caroline Richards, Instructor from 1946-1951
 
 {% include feature/card.html header="Student-led Writing." text="Richards began to emphasize the importance of student's creative autonomy. This course announcement offers a concrete example of how Richards approached this committment." objectid="assets/richardsdramawriting.png" width="25" centered=true %}
