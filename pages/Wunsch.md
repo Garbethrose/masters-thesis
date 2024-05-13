@@ -22,4 +22,4 @@ To learn more about Bob Wunsch, check out ["Creative Writing....Has a place in t
 
  To learn more about the queer history of Black Mountain College, read Jason Ezell's [Martin Duberman's Queer Historiography and Pedagogy](https://www.blackmountaincollege.org/1-4-jason-ezell/)) and Chase J. Pendleton's ["A Queer Moment at Black Mountain College"](http://www.blackmountainstudiesjournal.org/robert-wunsch-at-blackmountain-college/(https://www.blackmountaincollege.org/journal/volume-14/pendleton/)). 
 
-{% include feature/pdf.html objectid="assets/writing_dramatics_course_catalogue_1943.pdf" width="50" caption="Wunsch's 1941 writing course description emphasises skilled observation and analysis as a foundation for succcessful communication." %}
+{% include feature/pdf.html objectid="assets/writing_dramatics_course_catalogue_1943.pdf" width="75" caption="Wunsch's 1941 writing course description emphasises skilled observation and analysis as a foundation for succcessful communication." %}
