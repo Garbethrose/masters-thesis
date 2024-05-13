@@ -27,5 +27,3 @@ Labels generated for this project: Hiring Materials;Bob Wunsch;M.C. Richards;Cha
 
 
 _This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages._
-
-    </svg> 
